@@ -26,40 +26,6 @@ Graduated in Web Systems, made a post-graduation in Java and worked professional
 Developed games, and applications for Mobile, Desktop and Web platforms. Acquainted to work with, agile software development methodologies like Scrum and Kanban as well as with Continuous Integration, Design Patterns and UML.
 
 
-
-## Academic
-
-<table>
-    <tr>
-        <td> 2010 - Not completed </td>
-        <td> 
-            Postgraduate in Java Programming <br />
-            Sociedade Paranaense de Ensino em Informática, SPEI <br />
-        </td>
-    </tr>
-    <tr>
-        <td> 2006 - 2010 </td>
-        <td>
-            Graduate in Web Systems <br />
-            Sociedade Paranaense de Ensino em Informática, SPEI <br />
-        </td>
-    </tr>
-</table>
-
-
-## Additional training
-
-<table>
-    <tr>
-        <td> 2013 </td>
-        <td> 
-            Microsoft SharePoint Application Development 10175A (40h) <br />
-            Microsoft Partnership at JWT Agency
-        </td>
-    </tr>
-</table>
-
-
 ## Professional Activities
 <table>
     <tr><td>Period </td> <td> Apr 2015 - Current </td> </tr>
@@ -123,6 +89,39 @@ Developed games, and applications for Mobile, Desktop and Web platforms. Acquain
     <tr><td>Title </td> <td> Web Developer </td> </tr>
     <tr><td>Activities </td>
         <td>Developed inumerous sites using PHP and ActionScript.</td></tr>
+</table>
+
+
+## Academic
+
+<table>
+    <tr>
+        <td> 2010 - Not completed </td>
+        <td> 
+            Postgraduate in Java Programming <br />
+            Sociedade Paranaense de Ensino em Informática, SPEI <br />
+        </td>
+    </tr>
+    <tr>
+        <td> 2006 - 2010 </td>
+        <td>
+            Graduate in Web Systems <br />
+            Sociedade Paranaense de Ensino em Informática, SPEI <br />
+        </td>
+    </tr>
+</table>
+
+
+## Additional training
+
+<table>
+    <tr>
+        <td> 2013 </td>
+        <td> 
+            Microsoft SharePoint Application Development 10175A (40h) <br />
+            Microsoft Partnership at JWT Agency
+        </td>
+    </tr>
 </table>
 
 
