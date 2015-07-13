@@ -6,19 +6,6 @@ Work with the most inovative and cutting-edge technologies developing projects t
 
 ## Summary
 
-Software Architect with over 8 years of programming experience with great enthusiasm for development and new technologies.
-
-Excellent knowledge about different programming languages ​​and technologies, including Java, .Net, Scala, C/C++, Android, web technologies and SQL. Always learning even more.
-
-Deep knowledge and constantly learning about agile culture and some agile methods like Scrum, Kanban, XP and TDD.
-
-Active participant in the community through technology events as a speaker and listener, online discussion groups and personal blog post.
-
-One of the organizers of the GDG-SP Android Meetup: https://developers.google.com/groups/chapter/102774871279745079139/
-
-
-
-
 Professional developer since 2006, I really enjoy learn and work with new technologies.
 
 Graduated in Web Systems, made a post-graduation in Java and worked professionaly for years with C#, Objective-C, Java, ActionScript and PHP.
